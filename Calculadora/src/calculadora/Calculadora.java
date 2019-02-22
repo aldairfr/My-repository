@@ -1,6 +1,8 @@
 package calculadora;
-
+	
 public class Calculadora {
+	//Este es un comentario hecho en Eclipse
+	
 	private int num1;
 	private int num2;
 	
